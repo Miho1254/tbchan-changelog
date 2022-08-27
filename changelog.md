@@ -126,7 +126,7 @@ Hệ thống `invite member` mới như sau:
   - Loại bỏ `combo` khi chơi `đoán từ`.
   - Bắt đầu áp dụng `timeout` vào việc điều hành và xử phạt trong server.
   - `tbtinh` nay đã hỗ trợ dấu `x và :` thay cho `* và /` Ví Dụ: `tbtinh 4x5:2`.
-  - Cải tiến hệ thống `confession`.
+  - Cải tiến hệ thống `confession` chuyển từ tbconfession thành /confession (slashcommand).
   - Cải tiến hệ thống `dùng item` để phù hợp với hệ thống item mới.
   - `tbdich` đã chuyển thành `/dịch (SlashCommand)` để hỗ trợ nhiều ngôn ngữ và 1 số tính năng còn thiếu.
   - `điểm tình cảm` hiện đã `public` cho member song song với `cấp bậc`.
